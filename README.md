@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🌱 Currently learning Data Science. 
+
+👩‍🎓 Former Computer Vision researcher turned Technical Product Manager turned Data Scientist. 
+
+❤️ Passionate about Data Science + Healthcare 
+
 <!--
 **teresa-mao/teresa-mao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
