@@ -2,7 +2,7 @@
 
 🌱 Currently learning Data Science. 
 
-👩‍🎓 Former Computer Vision researcher turned Technical Product Manager turned Data Scientist. 
+👩‍🎓 Former Computer Vision researcher turned Product Manager turned Data Scientist. 
 
 ❤️ Passionate about Data Science + Healthcare 
 
