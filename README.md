@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-🌱 Currently learning Data Science. 
-
-👩‍🎓 Former Computer Vision researcher turned Data Scientist. 
-
-❤️ Passionate about Data Science + Healthcare 
+👩‍🎓 I'm a former Computer Vision researcher turned Data Scientist. 
 
 <!--
 **teresa-mao/teresa-mao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
